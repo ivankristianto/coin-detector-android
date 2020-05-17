@@ -8,6 +8,10 @@ using a [custom model](https://storage.googleapis.com/coin-saved-model/tflite/co
 
 The model files are downloaded via Gradle scripts when you build and run. You don't need to do any steps to download TFLite models into the project explicitly.
 
+### Demo
+
+[![Coin Detection using Tensorflow Lite](http://img.youtube.com/vi/eZNEsl7dlYg/0.jpg)](http://www.youtube.com/watch?v=eZNEsl7dlYg)
+
 
 ## Build the demo using Android Studio
 
